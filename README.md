@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Winicious-coder
+- 👋 Hi, I’m @Winicious
 - 👀 I’m interested in Data Domain
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 📫 How to reach me just ping me on mrvicious737@gmail.com

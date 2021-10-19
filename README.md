@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinay12
-- 👀 I’m interested in Data Domain
+- 👀 I’m interested in Data Science and Data Anlytics
 - 🌱 I’m currently learning Data Analytics and Data Science
 - 📫 How to reach me just ping me on mrvicious737@gmail.com
 
